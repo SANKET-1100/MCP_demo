@@ -6,8 +6,8 @@ This is a basic example of a Model Context Protocol (MCP) server implementation 
 
 1. Initialize the project (Go to any local folder and launch powershell or cmd):
 ```bash
-uv init mcp-server-basic
-cd mcp-server-basic
+uv init DEMO
+cd DEMO
 ```
 
 2.  # Create virtual environment and activate it
@@ -32,5 +32,5 @@ uv add -r requirements.txt
 
 To run the server with the MCP Inspector for development:
 ```bash
-uv run mcp dev main.py
+uv run mcp dev server/weather.py
 ```
