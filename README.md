@@ -1,6 +1,6 @@
-# MCP Server Basic Example
+# MCP Server Example - weather forecast for states and cities in USA
 
-This is a basic example of a Model Context Protocol (MCP) server implementation that demonstrates core functionality including tools and resources.
+This is a example of a Model Context Protocol (MCP) server implementation that demonstrates core functionality including tools and resources.
 
 ## Setup Steps
 
